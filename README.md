@@ -98,7 +98,7 @@ ctrl + shift + P调出控制台，然后输入："sss1" (Set Syntax S1的缩写)
 
 我比较习惯的取缩写方法：
 
-* 模块前几个字符 + 函数每个单次的首字母：例如 chacmwt       **cha**ssis_**c**trl.**m**ove\_**w**ith\_**t**ime
+* 模块前几个字符 + 函数每个单词的首字母：例如 chacmwt       **cha**ssis_**c**trl.**m**ove\_**w**ith\_**t**ime
 * 模块前几个字符 + 关键单次：例如  chacmove    ==>找出所有与移动有关的函数
 
 

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+armor_ctrl.get_last_hit_time()
+]]></content>
+    <tabTrigger>armor_ctrl.get_last_hit_time</tabTrigger>
+    <scope>source.s1</scope>
+    <description>  获取最近装甲板受到攻击的时间戳</description>
+</snippet>

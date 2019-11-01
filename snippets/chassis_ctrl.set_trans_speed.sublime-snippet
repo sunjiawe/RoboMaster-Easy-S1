@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+chassis_ctrl.set_trans_speed(${1:speed=0.5})
+]]></content>
+    <tabTrigger>chassis_ctrl.set_trans_speed</tabTrigger>
+    <scope>source.s1</scope>
+    <description>  设置底盘平移速率(米/秒)  ●speed(float):[0,3.5] m/s</description>
+</snippet>

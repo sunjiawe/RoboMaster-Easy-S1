@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+vision_ctrl.detect_marker_and_aim(${1:marker_enum})
+]]></content>
+    <tabTrigger>vision_ctrl.detect_marker_and_aim</tabTrigger>
+    <scope>source.s1</scope>
+    <description>   识别并瞄准对应视觉标签的中心位置</description>
+</snippet>

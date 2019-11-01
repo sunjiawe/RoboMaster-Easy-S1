@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+chassis_ctrl.get_attitude(${1:attitude_enum})
+]]></content>
+    <tabTrigger>chassis_ctrl.get_attitude</tabTrigger>
+    <scope>source.s1</scope>
+    <description>获取底盘姿态角(以上电时刻底盘位置为基准)   ●Return:degree(float)</description>
+</snippet>

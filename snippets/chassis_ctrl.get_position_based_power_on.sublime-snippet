@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+chassis_ctrl.get_position_based_power_on(${1:action_enum})
+]]></content>
+    <tabTrigger>chassis_ctrl.get_position_based_power_on</tabTrigger>
+    <scope>source.s1</scope>
+    <description>获取底盘当前位置的坐标和朝向数据(以上电时刻底盘位置为基准)   ●Return:position(float)</description>
+</snippet>

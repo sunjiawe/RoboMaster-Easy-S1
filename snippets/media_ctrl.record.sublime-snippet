@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+media_ctrl.record(${1:enable_enum=1})
+]]></content>
+    <tabTrigger>media_ctrl.record</tabTrigger>
+    <scope>source.s1</scope>
+    <description>   录视频   1:开始  0:停止</description>
+</snippet>

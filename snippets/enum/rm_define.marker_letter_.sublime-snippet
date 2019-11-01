@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+rm_define.marker_letter_${1:[A,..., Z]}
+]]></content>
+    <tabTrigger>marker_enum</tabTrigger>
+    <scope>source.s1</scope>
+    <description>   marker_letter_</description>
+</snippet>

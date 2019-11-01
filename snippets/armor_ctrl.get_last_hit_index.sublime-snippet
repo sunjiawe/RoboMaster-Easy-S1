@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+armor_ctrl.get_last_hit_index()
+]]></content>
+    <tabTrigger>armor_ctrl.get_last_hit_index</tabTrigger>
+    <scope>source.s1</scope>
+    <description>  获取最近受到攻击的装甲板信息，ID值反馈出装甲板位置</description>
+</snippet>

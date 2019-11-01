@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+chassis_ctrl.set_rotate_speed(${1:speed=30})
+]]></content>
+    <tabTrigger>chassis_ctrl.set_rotate_speed</tabTrigger>
+    <scope>source.s1</scope>
+    <description>  设置底盘旋转速率(°/秒)  ●speed(int):[0, 600]</description>
+</snippet>

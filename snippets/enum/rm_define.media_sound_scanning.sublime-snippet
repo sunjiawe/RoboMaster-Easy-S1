@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+rm_define.media_sound_scanning
+]]></content>
+    <tabTrigger>sound_enum</tabTrigger>
+    <scope>source.s1</scope>
+    <description>   media_sound_scanning</description>
+</snippet>

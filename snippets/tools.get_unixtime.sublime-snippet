@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+tools.get_unixtime()
+]]></content>
+    <tabTrigger>tools.get_unixtime</tabTrigger>
+    <scope>source.s1</scope>
+    <description>获取上电后运行时间(秒)  ●Return: time(float)</description>
+</snippet>

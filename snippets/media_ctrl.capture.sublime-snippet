@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+media_ctrl.capture()
+]]></content>
+    <tabTrigger>media_ctrl.capture</tabTrigger>
+    <scope>source.s1</scope>
+    <description>   拍摄照片</description>
+</snippet>

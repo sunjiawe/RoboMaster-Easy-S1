@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+${1:pid}.set_ctrl_params(${2:kp}, ${3:ki}, ${4:kd})
+]]></content>
+    <tabTrigger>pid:set_ctrl_params</tabTrigger>
+    <scope>source.s1</scope>
+    <description>  调节 PID 控制器参数</description>
+</snippet>

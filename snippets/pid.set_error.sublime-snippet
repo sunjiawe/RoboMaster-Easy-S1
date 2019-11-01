@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+${1:pid}.set_error(${2:error})
+]]></content>
+    <tabTrigger>pid:set_error</tabTrigger>
+    <scope>source.s1</scope>
+    <description>  设置PID控制器误差</description>
+</snippet>

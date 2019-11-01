@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+led_ctrl.set_bottom_led(${1:armor_enum}, ${2:r},${3:g},${4:b}, ${5:led_effect_enum})
+]]></content>
+    <tabTrigger>led_ctrl.set_bottom_led</tabTrigger>
+    <scope>source.s1</scope>
+    <description>控制底盘指定位置LED的颜色和灯效</description>
+</snippet>

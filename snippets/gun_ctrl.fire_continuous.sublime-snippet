@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+gun_ctrl.fire_continuous()
+]]></content>
+    <tabTrigger>gun_ctrl.fire_continuous</tabTrigger>
+    <scope>source.s1</scope>
+    <description>  控制发射器持续发射水弹</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+gimbal_ctrl.rotate_with_speed(${1:yaw_speed}, ${2:pitch_speed})
+]]></content>
+    <tabTrigger>gimbal_ctrl.rotate_with_speed</tabTrigger>
+    <scope>source.s1</scope>
+    <description>  控制云台以指定旋转速度同时绕航向轴、俯仰轴旋转   ●yaw_speed(int):[-360,360]°/s  ●pitch_speed(int):[-360,360]°/s</description>
+</snippet>

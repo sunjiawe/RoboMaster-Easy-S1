@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+gimbal_ctrl.suspend()
+]]></content>
+    <tabTrigger>gimbal_ctrl.suspend</tabTrigger>
+    <scope>source.s1</scope>
+    <description>  控制云台断电  (断电后失去保持力矩)</description>
+</snippet>

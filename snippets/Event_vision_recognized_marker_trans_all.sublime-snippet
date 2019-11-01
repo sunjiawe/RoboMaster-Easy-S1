@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+def vision_recognized_marker_trans_all(msg):
+    $1
+]]></content>
+	<tabTrigger>eve:vision_recognized_marker_trans_all</tabTrigger>
+	<scope>source.s1</scope>
+	<description>   Event: 识别到方向(任意)</description>
+</snippet>

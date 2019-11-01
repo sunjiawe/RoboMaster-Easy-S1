@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+gimbal_ctrl.set_rotate_speed(${1:speed})
+]]></content>
+    <tabTrigger>gimbal_ctrl.set_rotate_speed</tabTrigger>
+    <scope>source.s1</scope>
+    <description>  设置云台旋转速率，默认30度/秒   ●speed(float):[0,540]°/s</description>
+</snippet>

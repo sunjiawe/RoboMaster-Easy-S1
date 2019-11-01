@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+media_ctrl.get_sight_bead_position()
+]]></content>
+    <tabTrigger>media_ctrl.get_sight_bead_position</tabTrigger>
+    <scope>source.s1</scope>
+    <description>   获取准星位置信息   Return:list(x,y)</description>
+</snippet>

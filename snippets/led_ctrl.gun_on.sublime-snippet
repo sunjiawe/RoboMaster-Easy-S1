@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+led_ctrl.gun_on()
+]]></content>
+    <tabTrigger>led_ctrl.gun_on</tabTrigger>
+    <scope>source.s1</scope>
+    <description>开启弹道灯</description>
+</snippet>

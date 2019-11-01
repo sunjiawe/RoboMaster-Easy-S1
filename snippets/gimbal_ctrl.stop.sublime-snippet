@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+gimbal_ctrl.stop()
+]]></content>
+    <tabTrigger>gimbal_ctrl.stop</tabTrigger>
+    <scope>source.s1</scope>
+    <description>  控制云台停止运动</description>
+</snippet>

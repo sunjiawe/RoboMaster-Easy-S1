@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+led_ctrl.set_flash(${1:armor_enum}, ${2:frequency(int):[1,10]})
+]]></content>
+    <tabTrigger>led_ctrl.set_flash</tabTrigger>
+    <scope>source.s1</scope>
+    <description>  设置指定位置LED灯的闪烁频率(Hz)</description>
+</snippet>

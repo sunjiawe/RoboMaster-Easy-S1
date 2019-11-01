@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+vision_ctrl.get_car_detection_info()
+]]></content>
+    <tabTrigger>vision_ctrl.get_car_detection_info</tabTrigger>
+    <scope>source.s1</scope>
+    <description>  获取识别到的其它S1信息  ●Return:list </description>
+</snippet>

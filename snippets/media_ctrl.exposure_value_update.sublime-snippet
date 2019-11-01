@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+media_ctrl.exposure_value_update(${1:exposure_value_enum})
+]]></content>
+    <tabTrigger>media_ctrl.exposure_value_update</tabTrigger>
+    <scope>source.s1</scope>
+    <description>   设置相机曝光值</description>
+</snippet>

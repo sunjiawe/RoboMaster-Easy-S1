@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+vision_ctrl.get_env_brightness()
+]]></content>
+    <tabTrigger>vision_ctrl.get_env_brightness</tabTrigger>
+    <scope>source.s1</scope>
+    <description>   获取当前场景的亮度信息，返回数值0-10。数值越大，代表当前场景越亮</description>
+</snippet>

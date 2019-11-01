@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+rm_define.mobile_accel_z
+]]></content>
+    <tabTrigger>axis_enum</tabTrigger>
+    <scope>source.s1</scope>
+    <description>   mobile_accel_z</description>
+</snippet>

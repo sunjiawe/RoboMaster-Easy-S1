@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+armor_ctrl.cond_wait(${1:condition_enum})
+]]></content>
+    <tabTrigger>armor_ctrl.cond_wait</tabTrigger>
+    <scope>source.s1</scope>
+    <description>  [阻塞]等待检测到指定装甲板受到攻击</description>
+</snippet>

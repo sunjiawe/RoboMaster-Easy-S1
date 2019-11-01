@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+chassis_ctrl.disable_stick_overlay()
+]]></content>
+    <tabTrigger>chassis_ctrl.disable_stick_overlay</tabTrigger>
+    <scope>source.s1</scope>
+    <description>  关闭底盘速度杆量叠加</description>
+</snippet>

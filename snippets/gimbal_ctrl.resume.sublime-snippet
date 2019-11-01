@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+gimbal_ctrl.resume()
+]]></content>
+    <tabTrigger>gimbal_ctrl.resume</tabTrigger>
+    <scope>source.s1</scope>
+    <description>  控制云台重新通电  (通电后自动回中)</description>
+</snippet>

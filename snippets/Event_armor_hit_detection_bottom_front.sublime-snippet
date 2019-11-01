@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+def armor_hit_detection_bottom_front(msg):
+    $1
+]]></content>
+	<tabTrigger>eve:armor_hit_detection_bottom_front</tabTrigger>
+	<scope>source.s1</scope>
+	<description>   Event: (底盘前)装甲板受到攻击</description>
+</snippet>

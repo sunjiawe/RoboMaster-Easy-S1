@@ -1,0 +1,16 @@
+%YAML 1.2
+---
+# http://www.sublimetext.com/docs/3/syntax.html
+name: S1
+file_extensions: [py]
+scope: source.s1
+
+contexts:
+  main:
+    - match: ''
+      push: Packages/Python/Python.sublime-syntax
+      with_prototype:
+        - match: \b(RmList|)\b
+          scope: storage.type.s1
+        - match: \b(PIDCtrl|rm_define|vision_ctrl|armor_ctrl|mobile_ctrl|media_ctrl|chassis_ctrl|robot_ctrl|led_ctrl|gimbal_ctrl|gun_ctrl)\b
+          scope: entity.name.class.s1

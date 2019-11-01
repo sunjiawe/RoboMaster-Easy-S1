@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+chassis_ctrl.is_impact()
+]]></content>
+    <tabTrigger>chassis_ctrl.is_impact</tabTrigger>
+    <scope>source.s1</scope>
+    <description>  检测到底盘是否撞击到障碍物   ●impact_status(bool)</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+armor_ctrl.check_condition(${1:condition_enum})
+]]></content>
+    <tabTrigger>armor_ctrl.check_condition</tabTrigger>
+    <scope>source.s1</scope>
+    <description>  检测指定装甲板是否受到攻击</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+led_ctrl.turn_off(${1:armor_enum})
+]]></content>
+    <tabTrigger>led_ctrl.turn_off(armor_enum)</tabTrigger>
+    <scope>source.s1</scope>
+    <description>关闭指定位置的LED灯</description>
+</snippet>

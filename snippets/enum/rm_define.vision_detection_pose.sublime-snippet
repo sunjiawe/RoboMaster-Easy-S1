@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+rm_define.vision_detection_pose
+]]></content>
+    <tabTrigger>function_enum</tabTrigger>
+    <scope>source.s1</scope>
+    <description>   vision_detection_pose</description>
+</snippet>

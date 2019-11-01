@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+mobile_ctrl.get_attitude(${1:attitude_enum})
+]]></content>
+    <tabTrigger>mobile_ctrl.get_attitude</tabTrigger>
+    <scope>source.s1</scope>
+    <description>  获取移动设备当前姿态角</description>
+</snippet>

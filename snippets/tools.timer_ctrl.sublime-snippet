@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+tools.timer_ctrl(${1:behavior_enum})
+]]></content>
+    <tabTrigger>tools.timer_ctrl</tabTrigger>
+    <scope>source.s1</scope>
+    <description>计时器开始、暂停或结束 ■rm_define.timer_start ■rm_define.timer_stop ■rm_define.timer_reset</description>
+</snippet>

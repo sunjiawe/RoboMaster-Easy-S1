@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[def start():
+    $1
+]]></content>
+	<tabTrigger>start</tabTrigger>
+	<scope>source.s1</scope>
+	<description>S1 start</description>
+</snippet>

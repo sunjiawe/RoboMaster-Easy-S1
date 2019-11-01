@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+tools.get_localtime(${1:time_enum})
+]]></content>
+    <tabTrigger>tools.get_localtime</tabTrigger>
+    <scope>source.s1</scope>
+    <description>获取日期 ■rm_define.localtime_year ■rm_define.localtime_month ■rm_define.localtime_day ■rm_define.localtime_hour ■rm_define.localtime_minute ■rm_define.localtime_second</description>
+</snippet>

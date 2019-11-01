@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+gimbal_ctrl.rotate(${1:direction_enum})
+]]></content>
+    <tabTrigger>gimbal_ctrl.rotate</tabTrigger>
+    <scope>source.s1</scope>
+    <description>  控制云台向指定方向旋转   </description>
+</snippet>

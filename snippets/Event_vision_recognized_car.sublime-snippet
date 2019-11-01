@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+def vision_recognized_car(msg):
+    $1
+]]></content>
+	<tabTrigger>eve:vision_recognized_car</tabTrigger>
+	<scope>source.s1</scope>
+	<description>   Event: 识别到其它S1</description>
+</snippet>

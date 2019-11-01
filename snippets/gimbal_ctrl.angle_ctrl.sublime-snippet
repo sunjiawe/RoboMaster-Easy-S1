@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+gimbal_ctrl.angle_ctrl(${1:yaw_degree}, ${2:pitch_degree})
+]]></content>
+    <tabTrigger>gimbal_ctrl.angle_ctrl</tabTrigger>
+    <scope>source.s1</scope>
+    <description>  控制云台旋转到指定角度位置   ●yaw_degree(int):[-250,250]°  ●pitch_degree(int):[-20,35]°</description>
+</snippet>

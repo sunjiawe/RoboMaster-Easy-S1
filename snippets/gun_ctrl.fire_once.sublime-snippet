@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+gun_ctrl.fire_once()
+]]></content>
+    <tabTrigger>gun_ctrl.fire_once</tabTrigger>
+    <scope>source.s1</scope>
+    <description>  控制发射器只发射一次水弹</description>
+</snippet>

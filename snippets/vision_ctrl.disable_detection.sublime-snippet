@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+vision_ctrl.disable_detection(${1:function_enum})
+]]></content>
+    <tabTrigger>vision_ctrl.disable_detection</tabTrigger>
+    <scope>source.s1</scope>
+    <description>关闭视觉识别功能 ■ rm_define.vision_detection_marker ■ rm_define.vision_detection_pose ■ rm_define.vision_detection_car ■ rm_define.vision_detection_people</description>
+</snippet>

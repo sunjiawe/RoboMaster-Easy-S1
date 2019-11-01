@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+tools.run_time_of_program()
+]]></content>
+    <tabTrigger>tools.run_time_of_program</tabTrigger>
+    <scope>source.s1</scope>
+    <description>获取程序运行时间(秒) ●Return: time(float)</description>
+</snippet>

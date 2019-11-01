@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+chassis_ctrl.move_with_time(${1:degree}, ${2:time})
+]]></content>
+    <tabTrigger>chassis_ctrl.move_with_time</tabTrigger>
+    <scope>source.s1</scope>
+    <description>  控制底盘向指定方向平移指定时长   ●degree(int):[-180,180]°  ●time(float):[0,20]s</description>
+</snippet>

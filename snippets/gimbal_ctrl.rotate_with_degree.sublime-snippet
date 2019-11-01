@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+gimbal_ctrl.rotate_with_degree(${1:direction_enum}, ${2:degree})
+]]></content>
+    <tabTrigger>gimbal_ctrl.rotate_with_degree</tabTrigger>
+    <scope>source.s1</scope>
+    <description>  控制云台向指定方向旋转指定角度</description>
+</snippet>

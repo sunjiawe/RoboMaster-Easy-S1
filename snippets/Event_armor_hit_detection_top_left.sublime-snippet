@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+def armor_hit_detection_top_left(msg):
+    $1
+]]></content>
+	<tabTrigger>eve:armor_hit_detection_top_left</tabTrigger>
+	<scope>source.s1</scope>
+	<description>   Event: (云台左)装甲板受到攻击</description>
+</snippet>

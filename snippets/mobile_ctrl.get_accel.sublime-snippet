@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+mobile_ctrl.get_accel(${1:axis_enum})
+]]></content>
+    <tabTrigger>mobile_ctrl.get_accel</tabTrigger>
+    <scope>source.s1</scope>
+    <description>  获取移动设备的加速度值</description>
+</snippet>

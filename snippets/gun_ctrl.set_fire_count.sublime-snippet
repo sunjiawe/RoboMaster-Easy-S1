@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+gun_ctrl.set_fire_count(${1:count})
+]]></content>
+    <tabTrigger>gun_ctrl.set_fire_count</tabTrigger>
+    <scope>source.s1</scope>
+    <description>  设置连发数 (颗/次)   ●count(int):[1,8] </description>
+</snippet>

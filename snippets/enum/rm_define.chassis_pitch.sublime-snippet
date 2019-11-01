@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+rm_define.chassis_pitch
+]]></content>
+    <tabTrigger>attitude_enum</tabTrigger>
+    <scope>source.s1</scope>
+    <description>   chassis_pitch</description>
+</snippet>

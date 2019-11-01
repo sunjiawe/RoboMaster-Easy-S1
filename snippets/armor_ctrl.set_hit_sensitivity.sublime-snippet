@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+armor_ctrl.set_hit_sensitivity(${1:value})
+]]></content>
+    <tabTrigger>armor_ctrl.set_hit_sensitivity</tabTrigger>
+    <scope>source.s1</scope>
+    <description>  数值越大，装甲板感应灵敏度越高    ●value(int):[0,10]  硬物敲击==>6，指关节叩击==>8</description>
+</snippet>

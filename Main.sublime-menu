@@ -1,0 +1,89 @@
+[
+    {
+        "caption": "Preferences",
+        "children": [
+            {
+                "caption": "Package Settings",
+                "children": [
+                    {
+                        "caption": "RoboMaster S1 IDE)",
+                        "children": [
+                            {
+                                "args": {
+                                    "file": "${packages}/User/RM S1/app_dir.s1-settings"
+                                },
+                                "caption": "App Dir Setting",
+                                "command": "open_file"
+                            },
+                            {
+                                "caption": "-"
+                            },
+                            {
+                                "args": {
+                                    "file": "${packages}/User/RM S1/Default (OSX).sublime-keymap",
+                                    "platform": "OSX"
+                                },
+                                "caption": "Key Bindings - User",
+                                "command": "open_file"
+                            },
+                            {
+                                "args": {
+                                    "file": "${packages}/User/RM S1/Default (Linux).sublime-keymap",
+                                    "platform": "Linux"
+                                },
+                                "caption": "Key Bindings - User",
+                                "command": "open_file"
+                            },
+                            {
+                                "args": {
+                                    "file": "${packages}/User/RM S1/Default (Windows).sublime-keymap",
+                                    "platform": "Windows"
+                                },
+                                "caption": "Key Bindings - User",
+                                "command": "open_file"
+                            },
+                            {
+                                "caption": "-"
+                            }
+                        ]
+                    }
+                ],
+                "id": "package-settings",
+                "mnemonic": "P"
+            }
+        ],
+        "id": "preferences",
+        "mnemonic": "n"
+    },
+    {
+        "caption": "RM S1",
+        "mnemonic": "S",
+        "id": "rm s1",
+        "children":
+        [          
+            {
+                "caption": "Help",
+                "id": "stino_help",
+                "children":
+                [
+                    {
+                        "caption": "Programming Guide",
+                        "id": "s1_documents",
+                        "command": "open_url",
+                        "args": {"url": "https://www.dji.com/cn/robomaster-s1/programming-guide"}
+                    },
+                    {
+                        "caption": "Forum",
+                        "id": "s1_forum",
+                        "command": "open_url",
+                        "args": {"url": "https://bbs.dji.com/forum.php?mod=forumdisplay&fid=2&filter=typeid&typeid=322"}},
+                    {
+                        "caption": "Author: 孙佳伟",
+                        "id": "s1_about",
+                        "command": "rm_s1_about"
+                    }
+                ]
+            }
+        ]
+    }
+]

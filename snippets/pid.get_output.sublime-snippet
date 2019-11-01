@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+${1:pid}.get_output()
+]]></content>
+    <tabTrigger>pid:get_output</tabTrigger>
+    <scope>source.s1</scope>
+    <description>  获取PID控制器的输出值</description>
+</snippet>

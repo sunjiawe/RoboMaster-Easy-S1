@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+chassis_ctrl.stop()
+]]></content>
+    <tabTrigger>chassis_ctrl.stop</tabTrigger>
+    <scope>source.s1</scope>
+    <description>  停止底盘的所有运动</description>
+</snippet>

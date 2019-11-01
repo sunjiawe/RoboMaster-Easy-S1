@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+gimbal_ctrl.pitch_ctrl(${1:degree})
+]]></content>
+    <tabTrigger>gimbal_ctrl.pitch_ctrl</tabTrigger>
+    <scope>source.s1</scope>
+    <description>  控制云台绕俯仰轴旋转到指定位置   ●degree(int):[-20, 35]°</description>
+</snippet>

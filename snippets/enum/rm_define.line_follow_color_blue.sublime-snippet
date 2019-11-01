@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+rm_define.line_follow_color_blue
+]]></content>
+    <tabTrigger>color_enum</tabTrigger>
+    <scope>source.s1</scope>
+    <description>   line_follow_color_blue</description>
+</snippet>

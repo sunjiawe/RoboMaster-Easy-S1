@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+gimbal_ctrl.get_axis_angle(${1:axis_enum})
+]]></content>
+    <tabTrigger>gimbal_ctrl.get_axis_angle</tabTrigger>
+    <scope>source.s1</scope>
+    <description>  获取云台姿态角值    ●degree(int)</description>
+</snippet>

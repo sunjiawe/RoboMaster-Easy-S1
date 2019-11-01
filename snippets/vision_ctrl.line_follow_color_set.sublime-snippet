@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+vision_ctrl.line_follow_color_set(${1:color_enum})
+]]></content>
+    <tabTrigger>vision_ctrl.line_follow_color_set</tabTrigger>
+    <scope>source.s1</scope>
+    <description>   设置机器人能够识别的线颜色</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+gun_ctrl.stop()
+]]></content>
+    <tabTrigger>gun_ctrl.stop</tabTrigger>
+    <scope>source.s1</scope>
+    <description>  停止发射水弹</description>
+</snippet>

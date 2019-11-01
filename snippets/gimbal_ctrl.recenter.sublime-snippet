@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+gimbal_ctrl.recenter()
+]]></content>
+    <tabTrigger>gimbal_ctrl.recenter</tabTrigger>
+    <scope>source.s1</scope>
+    <description>  控制云台回中 (可直接在睡眠模式下调用)  </description>
+</snippet>

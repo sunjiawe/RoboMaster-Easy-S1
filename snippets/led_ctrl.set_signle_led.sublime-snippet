@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+led_ctrl.set_signle_led(${1:armor_enum}, ${2:led_index}, ${3:led_effect_enum})
+]]></content>
+    <tabTrigger>led_ctrl.set_signle_led</tabTrigger>
+    <scope>source.s1</scope>
+    <description>设置云台指定序号LED的亮灭   注意：LED灯支持多选</description>
+</snippet>

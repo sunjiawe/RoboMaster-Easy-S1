@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+rm_define.gimbal_axis_yaw
+]]></content>
+    <tabTrigger>axis_enum </tabTrigger>
+    <scope>source.s1</scope>
+    <description>   gimbal_axis_yaw</description>
+</snippet>

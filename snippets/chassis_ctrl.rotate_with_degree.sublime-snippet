@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+chassis_ctrl.rotate_with_degree(${1:direction_enum}, ${2:degree(int):[0,1800]°})
+]]></content>
+    <tabTrigger>chassis_ctrl.rotate_with_degree</tabTrigger>
+    <scope>source.s1</scope>
+    <description>  控制底盘向指定方向旋转指定角度 ■rm_define.clockwise ■rm_define.anticlockwise  </description>
+</snippet>

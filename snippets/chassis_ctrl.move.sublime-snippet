@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+chassis_ctrl.move(${1:degree})
+]]></content>
+    <tabTrigger>chassis_ctrl.move</tabTrigger>
+    <scope>source.s1</scope>
+    <description>  控制底盘向指定方向平移   ●degree(int):[-180, 180] °</description>
+</snippet>

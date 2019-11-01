@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+media_ctrl.play_sound(${1:sound_enum}, ${2:wait_complete_flag=False})
+]]></content>
+    <tabTrigger>media_ctrl.play_sound</tabTrigger>
+    <scope>source.s1</scope>
+    <description>   播放音效   True:阻塞  False:非阻塞</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+gimbal_ctrl.yaw_ctrl(${1:degree})
+]]></content>
+    <tabTrigger>gimbal_ctrl.yaw_ctrl</tabTrigger>
+    <scope>source.s1</scope>
+    <description>  控制云台绕航向轴旋转到指定位置   ●degree(int):[-250,250]°</description>
+</snippet>

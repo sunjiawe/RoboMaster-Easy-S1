@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+chassis_ctrl.move_degree_with_speed(${1:speed}, ${2:degree})
+]]></content>
+    <tabTrigger>chassis_ctrl.move_degree_with_speed</tabTrigger>
+    <scope>source.s1</scope>
+    <description>  控制底盘以指定的平移速率向指定方向平移   ●speed(float):[0,3.5]m/s  ●degree(float):[-180,180]°</description>
+</snippet>

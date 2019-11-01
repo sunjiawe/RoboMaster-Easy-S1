@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+robot_ctrl.set_mode(${1:mode_enum})
+]]></content>
+    <tabTrigger>robot_ctrl.set_mode</tabTrigger>
+    <scope>source.s1</scope>
+    <description>设置整机运动模式 ■rm_define.robot_mode_gimbal_follow ■rm_define.robot_mode_chassis_follow ■rm_define.robot_mode_free</description>
+</snippet>

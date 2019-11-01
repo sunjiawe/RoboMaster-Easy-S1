@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+chassis_ctrl.set_wheel_speed(${1:lf_speed}, ${2:rf_speed}, ${3:lr_speed}, ${4:rr_speed})
+]]></content>
+    <tabTrigger>chassis_ctrl.set_wheel_speed</tabTrigger>
+    <scope>source.s1</scope>
+    <description>  独立控制四个麦轮的转速   ●(int):[-1000, 1000] rpm</description>
+</snippet>

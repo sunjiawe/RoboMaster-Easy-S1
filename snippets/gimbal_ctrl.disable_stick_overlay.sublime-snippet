@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+gimbal_ctrl.disable_stick_overlay()
+]]></content>
+    <tabTrigger>gimbal_ctrl.disable_stick_overlay</tabTrigger>
+    <scope>source.s1</scope>
+    <description>  关闭云台速度杆量叠加</description>
+</snippet>

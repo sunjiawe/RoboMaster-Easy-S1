@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+rm_define.gimbal_down
+]]></content>
+    <tabTrigger>direction_enum</tabTrigger>
+    <scope>source.s1</scope>
+    <description>   gimbal_down</description>
+</snippet>

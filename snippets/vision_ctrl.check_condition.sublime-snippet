@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+vision_ctrl.check_condition(${1:condition_enum})
+]]></content>
+    <tabTrigger>vision_ctrl.check_condition</tabTrigger>
+    <scope>source.s1</scope>
+    <description>   检测视觉是否识别到指定标签</description>
+</snippet>

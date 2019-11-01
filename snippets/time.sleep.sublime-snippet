@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+time.sleep(${1:t=1})
+]]></content>
+    <tabTrigger>sleep</tabTrigger>
+    <scope>source.s1</scope>
+    <description>   等待t秒  ●t(float):[0,3600]</description>
+</snippet>

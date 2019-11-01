@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+gimbal_ctrl.set_follow_chassis_offset(${1:degree})
+]]></content>
+    <tabTrigger>gimbal_ctrl.set_follow_chassis_offset</tabTrigger>
+    <scope>source.s1</scope>
+    <description>  "跟随底盘模式"下，云台始终与底盘保持指定夹角   ●degree(int):[-180, 180]</description>
+</snippet>

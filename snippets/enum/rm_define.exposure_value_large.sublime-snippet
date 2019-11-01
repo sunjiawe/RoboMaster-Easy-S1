@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+rm_define.exposure_value_large
+]]></content>
+    <tabTrigger>exposure_value_enum</tabTrigger>
+    <scope>source.s1</scope>
+    <description>   exposure_value_large</description>
+</snippet>

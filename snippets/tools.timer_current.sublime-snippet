@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+tools.timer_current()
+]]></content>
+    <tabTrigger>tools.timer_current</tabTrigger>
+    <scope>source.s1</scope>
+    <description>获取计时器当前计数 ●Return: time_stamp(float)</description>
+</snippet>

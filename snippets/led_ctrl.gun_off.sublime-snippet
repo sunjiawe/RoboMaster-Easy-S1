@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+led_ctrl.gun_off()
+]]></content>
+    <tabTrigger>led_ctrl.gun_off</tabTrigger>
+    <scope>source.s1</scope>
+    <description>关闭弹道灯</description>
+</snippet>
